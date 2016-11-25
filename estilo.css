@@ -1,0 +1,68 @@
+body {
+  position: relative;
+}
+
+#bidasoa{
+  float: right;
+  height: 150px;
+}
+#principal{
+   float: left;
+}
+.navbar-collapse{
+    background-color: #e5e3e3;
+    
+}
+.carousel{
+    width: 600px;
+    height: 600px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+#primero, #segundo, #tercero{
+    width: 600px;
+    height:600px;
+}
+
+.panel-group{
+     width: 600px;
+    height: 600px;
+    float: left;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+.jumbotron{
+    margin-left: 80px;
+}
+#pie{
+    margin-top: 100px;
+}
+
+#cuatro, #cinco, #seis{
+    width: 400px;
+    height: 400px;
+}
+
+.form-horizontal{
+    width: 400px;
+    height: 400px;
+   
+}
+
+#aceptar, .btn{
+    margin-left: 10px;
+    width: 300px;
+}
+
+ .nav-stacked{
+  float: left;
+  width: 300px;
+  margin-left: 50px;
+}
+
+
+#scrollspy{
+   position: fixed !important; 
+}   
